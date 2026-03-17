@@ -199,7 +199,8 @@ The system can be extended with:
 
 🔔 Notification system
 
-<img width="1920" height="910" alt="Final Output" src="https://github.com/user-attachments/assets/29f8cb93-9c6d-45ac-a04b-dc37bcf8d959" />
 💾 Database integration
 
 📤 Export leave reports
+
+<img width="1920" height="910" alt="Final Output" src="https://github.com/user-attachments/assets/29f8cb93-9c6d-45ac-a04b-dc37bcf8d959" />
