@@ -1,4 +1,5 @@
 📌 Smart Leave Management System – Project Description
+
 1️⃣ Project Overview 🖥️
 
 The Smart Leave Management System is a web-based application designed to manage employee leave requests efficiently.
